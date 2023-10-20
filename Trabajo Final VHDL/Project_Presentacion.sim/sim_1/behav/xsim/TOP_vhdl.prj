@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/imports/new/DEBOUNCER.vhd" \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/imports/new/Display_Control.vhd" \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/imports/new/EDGEDTCTR.vhd" \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/imports/new/FSM.vhd" \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/new/FSM_SW.vhd" \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/imports/new/SYNCHRNZR.vhd" \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/imports/new/counter.vhd" \
+"../../../../Project_Presentacion.srcs/sources_1/imports/sources_1/imports/new/TOP.vhd" \
+
+# Do not sort compile order
+nosort
